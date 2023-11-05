@@ -1,0 +1,126 @@
+HTTrack3.49-2 launched on Wed, 04 Oct 2023 02:11:26 at https://gtkit.rometheme.pro/getux/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://gtkit.rometheme.pro/getux/ -O "/Users/sarma/websites/test" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:14:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link gmpg.org/robots.txt (from https://gtkit.rometheme.pro/getux/)
+02:14:16	Warning: 	Retry after error -5 (Unable to get server's address: nodename nor servname provided, or not known) at link gmpg.org/xfn/11 (from https://gtkit.rometheme.pro/getux/)
+02:14:16	Error: 	"Method Not Allowed" (405) at link https://gtkit.rometheme.pro/getux/xmlrpc.php (from https://gtkit.rometheme.pro/getux/)
+02:14:21	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://gtkit.rometheme.pro/getux/)
+02:16:29	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link gmpg.org/xfn/11 (from https://gtkit.rometheme.pro/getux/)
+02:16:30	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/getux/?p=7
+02:16:30	Warning: 	File has moved from https://gtkit.rometheme.pro/getux/?p=7 to https://gtkit.rometheme.pro/getux/template-kit/homepage/
+02:16:32	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/getux/?p=518
+02:16:32	Warning: 	File has moved from https://gtkit.rometheme.pro/getux/?p=518 to https://gtkit.rometheme.pro/getux/template-kit/about-us/
+02:16:32	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/getux/?p=556
+02:16:32	Warning: 	File has moved from https://gtkit.rometheme.pro/getux/?p=556 to https://gtkit.rometheme.pro/getux/template-kit/services/
+02:16:32	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/getux/?p=572
+02:16:32	Warning: 	File has moved from https://gtkit.rometheme.pro/getux/?p=572 to https://gtkit.rometheme.pro/getux/template-kit/project/
+02:16:32	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/getux/?p=603
+02:16:32	Warning: 	File has moved from https://gtkit.rometheme.pro/getux/?p=603 to https://gtkit.rometheme.pro/getux/template-kit/project-detail/
+02:16:32	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/getux/?p=696
+02:16:32	Warning: 	File has moved from https://gtkit.rometheme.pro/getux/?p=696 to https://gtkit.rometheme.pro/getux/template-kit/pricing/
+02:16:32	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/getux/?p=627
+02:16:32	Warning: 	File has moved from https://gtkit.rometheme.pro/getux/?p=627 to https://gtkit.rometheme.pro/getux/template-kit/team/
+02:16:32	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/getux/?p=649
+02:16:32	Warning: 	File has moved from https://gtkit.rometheme.pro/getux/?p=649 to https://gtkit.rometheme.pro/getux/template-kit/faq/
+02:16:32	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/getux/?p=711
+02:16:32	Warning: 	File has moved from https://gtkit.rometheme.pro/getux/?p=711 to https://gtkit.rometheme.pro/getux/template-kit/testimonial/
+02:16:32	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/getux/?p=717
+02:16:32	Warning: 	File has moved from https://gtkit.rometheme.pro/getux/?p=717 to https://gtkit.rometheme.pro/getux/template-kit/blog/
+02:16:52	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/getux/?p=744
+02:16:52	Warning: 	File has moved from https://gtkit.rometheme.pro/getux/?p=744 to https://gtkit.rometheme.pro/getux/template-kit/404-page/
+02:16:52	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/getux/?p=739
+02:16:52	Warning: 	File has moved from https://gtkit.rometheme.pro/getux/?p=739 to https://gtkit.rometheme.pro/getux/template-kit/contact/
+02:16:52	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/getux/?p=733
+02:16:52	Warning: 	File has moved from https://gtkit.rometheme.pro/getux/?p=733 to https://gtkit.rometheme.pro/getux/2023/09/27/user-centered-design-a-deep-dive-into-the-ui-ux-process/
+02:16:56	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/getux/?p=730
+02:16:56	Warning: 	File has moved from https://gtkit.rometheme.pro/getux/?p=730 to https://gtkit.rometheme.pro/getux/2023/09/27/local-seo-secrets-strategies-used-by-top-digital-agencies/
+02:17:02	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link gmpg.org/xfn/11 (from https://gtkit.rometheme.pro/getux/)
+02:17:02	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/getux/?p=727
+02:17:02	Warning: 	File has moved from https://gtkit.rometheme.pro/getux/?p=727 to https://gtkit.rometheme.pro/getux/2023/09/27/content-is-king-the-role-of-content-in-digital-agencies/
+02:17:03	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/getux/?p=724
+02:17:03	Warning: 	File has moved from https://gtkit.rometheme.pro/getux/?p=724 to https://gtkit.rometheme.pro/getux/2023/09/27/how-to-choose-the-right-digital-agency-for-your-business/
+02:17:04	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/getux/?p=165
+02:17:04	Warning: 	File has moved from https://gtkit.rometheme.pro/getux/?p=165 to https://gtkit.rometheme.pro/getux/2023/09/20/choosing-the-right-digital-agency-a-roadmap-for-success/
+02:17:06	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/getux/?p=162
+02:17:06	Warning: 	File has moved from https://gtkit.rometheme.pro/getux/?p=162 to https://gtkit.rometheme.pro/getux/2023/09/20/behind-the-scenes-a-day-in-the-life-of-a-digital-agency/
+02:17:07	Warning: 	HTML file (215475 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/wp-json/
+02:17:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/pages/250
+02:17:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgtkit.rometheme.pro%2Fgetux%2F
+02:17:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/xmlrpc.php?rsd
+02:18:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgtkit.rometheme.pro%2Fgetux%2Ftemplate-kit%2Fhomepage%2F
+02:18:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgtkit.rometheme.pro%2Fgetux%2Ftemplate-kit%2Fhomepage%2F&format=xml
+02:18:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgtkit.rometheme.pro%2Fgetux%2Ftemplate-kit%2Fabout-us%2F&format=xml
+02:18:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgtkit.rometheme.pro%2Fgetux%2Ftemplate-kit%2Fservices%2F&format=xml
+02:18:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgtkit.rometheme.pro%2Fgetux%2Ftemplate-kit%2Fproject-detail%2F
+02:18:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgtkit.rometheme.pro%2Fgetux%2Ftemplate-kit%2Fproject-detail%2F&format=xml
+02:18:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgtkit.rometheme.pro%2Fgetux%2Ftemplate-kit%2Fpricing%2F
+02:18:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgtkit.rometheme.pro%2Fgetux%2Ftemplate-kit%2Fpricing%2F&format=xml
+02:18:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgtkit.rometheme.pro%2Fgetux%2Ftemplate-kit%2Fblog%2F
+02:18:37	Warning: 	HTML file (905 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/2023/09/27/user-centered-design-a-deep-dive-into-the-ui-ux-process/feed/
+02:18:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgtkit.rometheme.pro%2Fgetux%2F2023%2F09%2F27%2Fuser-centered-design-a-deep-dive-into-the-ui-ux-process%2F&format=xml
+02:18:39	Warning: 	HTML file (31084 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/category/blog/feed/
+02:18:52	Warning: 	HTML file (911 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/2023/09/27/local-seo-secrets-strategies-used-by-top-digital-agencies/feed/
+02:18:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/posts/730
+02:18:53	Warning: 	HTML file (905 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/2023/09/27/content-is-king-the-role-of-content-in-digital-agencies/feed/
+02:18:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgtkit.rometheme.pro%2Fgetux%2F2023%2F09%2F27%2Flocal-seo-secrets-strategies-used-by-top-digital-agencies%2F
+02:18:55	Warning: 	HTML file (907 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/2023/09/27/how-to-choose-the-right-digital-agency-for-your-business/feed/
+02:18:56	Warning: 	HTML file (6933 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/category/tips-trick/feed/
+02:19:00	Warning: 	HTML file (905 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/2023/09/20/choosing-the-right-digital-agency-a-roadmap-for-success/feed/
+02:19:01	Warning: 	HTML file (905 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/2023/09/20/behind-the-scenes-a-day-in-the-life-of-a-digital-agency/feed/
+02:19:01	Warning: 	HTML file (6882 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/tag/design/feed/
+02:19:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/categories/9
+02:19:02	Warning: 	HTML file (6874 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/tag/ui/feed/
+02:19:03	Warning: 	HTML file (6878 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/tag/user/feed/
+02:19:03	Warning: 	HTML file (6874 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/tag/ux/feed/
+02:19:03	Warning: 	HTML file (31115 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/tag/agency/feed/
+02:19:05	Warning: 	HTML file (31117 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/tag/digital/feed/
+02:19:05	Warning: 	HTML file (31131 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/tag/digital-agency/feed/
+02:19:05	Warning: 	HTML file (6983 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/tag/seo/feed/
+02:19:07	Warning: 	HTML file (6993 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/tag/strategy/feed/
+02:19:07	Warning: 	HTML file (6983 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/tag/top/feed/
+02:19:07	Warning: 	HTML file (6904 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/tag/content/feed/
+02:19:09	Warning: 	HTML file (6918 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/tag/business/feed/
+02:19:09	Warning: 	HTML file (6947 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/tag/roadmap/feed/
+02:19:09	Warning: 	HTML file (6947 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/tag/success/feed/
+02:19:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgtkit.rometheme.pro%2Fgetux%2F&format=xml
+02:19:50	Warning: 	HTML file (105146 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/2023/09/27/user-centered-design-a-deep-dive-into-the-ui-ux-process/
+02:19:51	Warning: 	HTML file (103898 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/category/blog/
+02:19:55	Warning: 	Warning: store text/css without scan: /Users/sarma/websites/test/cdnjs.cloudflare.com/cf.core.css
+02:19:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgtkit.rometheme.pro%2Fgetux%2Ftemplate-kit%2Fblog%2F&format=xml
+02:19:57	Warning: 	HTML file (105183 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/2023/09/27/how-to-choose-the-right-digital-agency-for-your-business/
+02:20:00	Warning: 	HTML file (97766 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/category/tips-trick/
+02:20:03	Warning: 	HTML file (105098 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/2023/09/20/behind-the-scenes-a-day-in-the-life-of-a-digital-agency/
+02:20:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/posts/733
+02:20:08	Warning: 	HTML file (97673 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/tag/design/
+02:20:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/categories/2
+02:20:11	Warning: 	HTML file (905 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/?p=730
+02:20:12	Warning: 	Moved Permanently for https://gtkit.rometheme.pro/getux/?p=730
+02:20:12	Warning: 	File has moved from https://gtkit.rometheme.pro/getux/?p=730 to https://gtkit.rometheme.pro/getux/2023/09/27/local-seo-secrets-strategies-used-by-top-digital-agencies/
+02:20:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgtkit.rometheme.pro%2Fgetux%2F2023%2F09%2F27%2Flocal-seo-secrets-strategies-used-by-top-digital-agencies%2F&format=xml
+02:20:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/posts/727
+02:20:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/posts/724
+02:20:15	Warning: 	HTML file (97689 bytes) retransferred due to lack of cache: https://gtkit.rometheme.pro/getux/tag/business/
+02:20:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/posts/165
+02:20:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/posts/162
+02:20:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/tags/16
+02:20:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/tags/17
+02:20:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/tags/15
+02:20:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/tags/18
+02:20:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/tags/4
+02:20:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/tags/3
+02:20:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/tags/5
+02:20:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/tags/12
+02:20:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/tags/13
+02:20:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/tags/14
+02:20:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/tags/11
+02:20:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/tags/10
+02:20:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/tags/6
+02:20:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://gtkit.rometheme.pro/getux/wp-json/wp/v2/tags/7
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 8 seconds : 342 links scanned, 383 files written (23089793 bytes overall) [14127776 bytes received at 25780 bytes/sec], 12083127 bytes transferred using HTTP compression in 287 files, ratio 24%, 3.5 requests per connection
+(4 errors, 111 warnings, 0 messages)
